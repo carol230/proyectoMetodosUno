@@ -12,6 +12,7 @@ def f(v0, vf, n, a):
             return vf - v0 * (1 + x) ** n - a * (((1 + x) ** n - (1 + x)) / x)
 
     return funcion
+
 def obtener_interes():
     return optimize.newton(f(100, 105.31, 2, 5), 1e-5)
 def graficar():
