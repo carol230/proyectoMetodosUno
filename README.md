@@ -66,8 +66,8 @@ Construir una solución integral que permita realizar cálculos avanzados y visu
 
 - **Backend:** Python, Flask, Matplotlib  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Colaboración:** Git, GitHub  
-- **Presentación:** Canva 
+- **Colaboración:** GitHub  
+- **Presentación:** Genialyy 
 
 ---
 
