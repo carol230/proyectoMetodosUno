@@ -26,6 +26,8 @@ Bienvenido al repositorio central del **Proyecto Calculadora Completa**, una ini
 - 🔗 **Enlaces a Repositorios Relacionados**  
    Acceso directo a los repositorios del backend y el frontend para explorar el código fuente.  
 
+- 📊 **Manual de Usuario**
+   Una guía diseñada para ayudarte a calcular el interés compuesto.
 ---
 
 ## 🧑‍💻 **Miembros del Equipo**
@@ -45,7 +47,10 @@ Bienvenido al repositorio central del **Proyecto Calculadora Completa**, una ini
 2. **Ver la Presentación:**  
    Accede a nuestra presentación interactiva en `Presentacion_Final.pdf`.
 
-3. **Explorar los Repositorios Relacionados:**  
+3. **Ver el Manual:**  
+   Accede a nuestra manual de usuario en  `📊 Manual de Usuario para la Calculado.md`.
+
+4. **Explorar los Repositorios Relacionados:**  
    - [Backend Calculadora]([https://github.com/tu-backend-repo](https://github.com/DavidME1604/backend-calculadora))  
    - [Banco Calculadora - Frontend]([https://github.com/tu-frontend-repo](https://github.com/DavidME1604/banco-calculadora))  
 
