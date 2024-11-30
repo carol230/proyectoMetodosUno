@@ -51,8 +51,8 @@ Bienvenido al repositorio central del **Proyecto Calculadora Completa**, una ini
    Accede a nuestra manual de usuario en  `📊 Manual de Usuario para la Calculado.md`.
 
 4. **Explorar los Repositorios Relacionados:**  
-   - [Backend Calculadora]([https://github.com/tu-backend-repo](https://github.com/DavidME1604/backend-calculadora))  
-   - [Banco Calculadora - Frontend]([https://github.com/tu-frontend-repo](https://github.com/DavidME1604/banco-calculadora))  
+   - [Backend Calculadora]([https://github.com/DavidME1604/backend-calculadora](https://github.com/DavidME1604/backend-calculadora))  
+   - [Banco Calculadora - Frontend]([https://github.com/DavidME1604/banco-calculadora](https://github.com/DavidME1604/banco-calculadora))  
 
 ---
 
