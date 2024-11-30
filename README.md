@@ -26,7 +26,7 @@ Bienvenido al repositorio central del **Proyecto Calculadora Completa**, una ini
 - 🔗 **Enlaces a Repositorios Relacionados**  
    Acceso directo a los repositorios del backend y el frontend para explorar el código fuente.  
 
-- 📊 **Manual de Usuario**
+- 📊 **Manual de Usuario**  
    Una guía diseñada para ayudarte a calcular el interés compuesto.
 ---
 
